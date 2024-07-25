@@ -1,0 +1,21 @@
+.tarjeta {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    min-height: 8rem;
+    width: 25rem;
+    margin: 16px;
+    padding: 12px;
+    background-color: #ffe590;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tarjeta h1 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .tarjeta p {
+    font-size: 16px;
+    color: #333;
+  }
+  

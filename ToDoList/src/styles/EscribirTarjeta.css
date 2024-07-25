@@ -1,0 +1,16 @@
+.escribirTarjeta{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 5px;
+    height: min-content;
+}
+
+#title{
+    width: 95%;
+    margin-bottom: 1rem;
+}
+#content{
+    width: 95%;
+    height: 4rem;
+    margin-bottom: 5px;
+}

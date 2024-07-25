@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+}
+
+.tarjetasContainer{
+  display: flex;
+  flex-wrap: wrap;
+  width: 65rem ;
+
+}
